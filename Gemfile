@@ -7,6 +7,10 @@ gem 'bootstrap', '~> 5.1', '>= 5.1.3'
 
 gem 'bootstrap_form', '~> 5.1'
 
+gem 'cancancan'
+
+gem 'jquery-ui-rails'
+
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem 'rails', '~> 7.0.3', '>= 7.0.3.1'
 
